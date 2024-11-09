@@ -68,9 +68,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp LC(TAB)      &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(NUMBER_4)  &none           &kp PG_UP      &kp LC(MINUS)  &kp UP_ARROW    &kp LC(PLUS)  &none    &kp BSPC
-&kp LC(LS(TAB))  &kp LEFT_ALT      &kp LCTRL         &kp LEFT_SHIFT    &kp LGUI          &kp CAPSLOCK    &kp PAGE_DOWN  &kp LEFT       &kp DOWN_ARROW  &kp RIGHT     &kp DEL  &kp LC(A)
-&caps_word       &kp LC(Z)         &kp LC(X)         &kp LC(C)         &kp LC(V)         &none           &kp HOME       &kp END        &none           &none         &none    &tog 2
+&kp LC(TAB)      &kp LG(NUMBER_1)  &kp LG(NUMBER_2)  &kp LG(NUMBER_3)  &kp LG(NUMBER_4)  &none           &kp PG_UP      &kp LC(MINUS)  &kp UP_ARROW    &kp LC(PLUS)  &kp N0      &kp DELETE
+&kp LC(LS(TAB))  &kp LEFT_ALT      &kp LCTRL         &kp LEFT_SHIFT    &kp LGUI          &kp CAPSLOCK    &kp PAGE_DOWN  &kp LEFT       &kp DOWN_ARROW  &kp RIGHT     &kp DOLLAR  &kp LC(A)
+&caps_word       &kp LC(Z)         &kp LC(X)         &kp LC(C)         &kp LC(V)         &none           &kp HOME       &kp END        &none           &none         &none       &tog 2
                                                      &trans            &trans            &trans          &trans         &trans         &trans
             >;
         };
